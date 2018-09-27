@@ -1,6 +1,6 @@
 package com.wkd.entity;
 
-//aaaaaaaaaaaaaaaaaaaaaa
+//hahahahahaha
 public class NewsType {
 	private int typeId;
 	private String typeName;
